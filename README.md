@@ -1,5 +1,5 @@
 # Simple-HTML-and-CSS-Responsive-Log-In-Page
-How To Create a Simple with creative design Log In Oage by HTML and CSS Only
+How To Create a Simple with creative design Log In Page by HTML and CSS Only
 
 Log In page
 
